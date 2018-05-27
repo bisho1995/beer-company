@@ -1,0 +1,10 @@
+div {
+    padding-top: 1%;
+    text-align: center;
+}
+
+.clear {
+    color: red;
+    font-size: 1.1em;
+    cursor: pointer;
+}

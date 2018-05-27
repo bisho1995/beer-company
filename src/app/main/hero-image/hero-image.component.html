@@ -1,0 +1,22 @@
+<section>
+  <div class="container">
+    <div class="logo">
+      <img src="assets/images/logo.jpg">
+      <div>
+        <h1>
+            Vivriti Crafts Beer
+        </h1>
+      </div>
+    </div>
+    <div class="search">
+      <div class="row">
+        <div class="col-sm-10 no_padding">
+          <input type="text" id="search" class="form-control form_elem" [(ngModel)]="searchName" placeholder="Enter beer name...">
+        </div>
+        <div class="col-sm-2 no_padding">
+          <button class="btn btn-primary form_elem" (click)="search()" id="search_btn">Search</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

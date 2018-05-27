@@ -1,0 +1,29 @@
+/* You can add global styles to this file, and also import other style files */
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+.no_padding {
+    padding: 0px;   
+}
+
+
+.brown {
+    color: #993300;
+}
+
+.brown_background {
+    background: #993300;
+    color: white;
+}
+
+.blue {
+    color: #003366;
+}
+ .blue_color {
+     background: #003366;
+     color: white;
+ }

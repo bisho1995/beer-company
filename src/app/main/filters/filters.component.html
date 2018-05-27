@@ -1,0 +1,15 @@
+<div>
+  <b>Sort Via</b> &nbsp;&nbsp;&nbsp;
+  <i>Alcohol Quantity</i>
+  <select (change)="toggleAlcohol()" [(ngModel)]="alcohol">
+      <option value="1">Ascending</option>
+      <option value="2">Descending</option>
+  </select>
+  &nbsp;&nbsp;&nbsp;
+  <i>Style</i>
+  <select (change)="styleChange()" [(ngModel)]="style">
+      <option *ngFor="let style of styles" value={{style}}>{{style}}</option>
+  </select>
+  &nbsp;&nbsp;&nbsp;
+  Clear <i class="fas fa-times clear" (click)="clearFilters()"></i>
+</div>

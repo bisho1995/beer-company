@@ -1,0 +1,36 @@
+.beer_bottle {
+    border: 0.1px solid #DDD;
+    margin: 5% 0%;
+    padding: 1% 1%;
+}
+
+.beer_img_holder img{
+    position: relative;
+    height: 100%;
+    width: 100%;
+}
+
+.ounces {
+    margin-top: 5%;
+    font-weight: bold;
+    text-align: center;
+}
+.ounces .number {
+    position: relative;
+    left: 50%;
+    transform: translate(-50%);
+    height: 30px;
+    width: 40px;
+    background:  #003366;
+    color: white;
+}
+.cta{
+    position: relative;
+    margin-top: 2em;
+    /*bottom: 0px;*/
+}
+
+
+.row {
+    height: auto !important;
+}

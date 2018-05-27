@@ -1,0 +1,12 @@
+<section class="container">
+    <div *ngIf="beers.length > 0; else elseBlock">
+      <div *ngFor="let beer of beers">
+          <app-beer [beer]=beer></app-beer>
+      </div>
+    </div>
+    <ng-template #elseBlock>
+      <div class="empty">
+        Oops! Seems like there are no beer bottles with this name.
+      </div>
+    </ng-template>
+</section>
