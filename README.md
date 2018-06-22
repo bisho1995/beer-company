@@ -1,1 +1,10 @@
+# Screenshots
 ![](https://github.com/bisho1995/beer-company/blob/master/screenshots/Screenshot%20(9).png)
+![](https://github.com/bisho1995/beer-company/blob/master/screenshots/Screenshot%20(8).png)
+![](https://github.com/bisho1995/beer-company/blob/master/screenshots/Screenshot%20(17).png)
+![](https://github.com/bisho1995/beer-company/blob/master/screenshots/Screenshot%20(16).png)
+![](https://github.com/bisho1995/beer-company/blob/master/screenshots/Screenshot%20(15).png)
+![](https://github.com/bisho1995/beer-company/blob/master/screenshots/Screenshot%20(13).png)
+![](https://github.com/bisho1995/beer-company/blob/master/screenshots/Screenshot%20(12).png)
+![](https://github.com/bisho1995/beer-company/blob/master/screenshots/Screenshot%20(11).png)
+![](https://github.com/bisho1995/beer-company/blob/master/screenshots/Screenshot%20(10).png)
